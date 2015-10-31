@@ -2,7 +2,7 @@
   "name": "xlsx2json",
   "version": "0.1.0",
   "description": "Convert XLSX files to json, plain simple.",
-  "main": "src/index.js",
+  "main": "bin/xlsx2json.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
