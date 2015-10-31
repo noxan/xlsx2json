@@ -32,7 +32,7 @@ sheetnames.forEach(function (sheetname) {
 
   var targetfile = filename.replace('.xlsx', '').toLowerCase() + '-' + sheetname.toLowerCase() + '.json';
 
-  fs.writeFile(targetfile, result, function (err) {
+  fs.writeFile(targetfile, JSON.stringify(result), function (err) {
     if(err) {
       console.error(err);
     } else {
