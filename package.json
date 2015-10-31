@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/noxan/xlsx2json/issues"
   },
-  "homepage": "https://github.com/noxan/xlsx2json#readme"
+  "homepage": "https://github.com/noxan/xlsx2json#readme",
+  "dependencies": {
+    "xlsx": "^0.8.0"
+  }
 }
