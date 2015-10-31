@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/noxan/xlsx2json#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "xlsx": "^0.8.0"
   }
 }
