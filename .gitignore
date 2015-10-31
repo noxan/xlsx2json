@@ -4,3 +4,7 @@
 # vim
 *.swp
 *.swo
+
+# input and output
+*.xlsx
+*.json
