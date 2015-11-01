@@ -1,5 +1,5 @@
 {
-  "name": "xlsx2json",
+  "name": "xlsx2json-cli",
   "version": "0.1.0",
   "description": "Convert XLSX files to json, plain simple.",
   "main": "bin/xlsx2json.js",
