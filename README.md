@@ -6,11 +6,11 @@ Convert XLSX files to JSON with this small client application.
 
 Just install `xlsx2json-cli` via `npm` with:
 
-  npm install xlsx2json-cli
+    npm install xlsx2json-cli
 
 And now start converting files:
 
-  xlsx2json SomeTable.xlsx
+    xlsx2json SomeTable.xlsx
   
 Done. You get a dedicated file for each sheet (tab) of your spreadsheet.
 
